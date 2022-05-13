@@ -1,2 +1,2 @@
-# Tindog
-# Advanced CSS & html With boostrap
+# Tindog: Advanced CSS & html With boostrap
+
